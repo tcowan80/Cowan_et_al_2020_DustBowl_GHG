@@ -40,3 +40,11 @@ Code to create figures in Cowan et al. 2020, Nature Climate Change
   - The data for this figure is available by request
 
   - Run: ExtData_fig2_hwf_wah2_1931_2015_all_pd_sst.ncl
+  
+  
+  
+**Extended Data Figure 3:**
+
+  - untar ExtData_fig3_wah2_return_period_files.tgz
+
+  - Run: ExtData_fig3_wah2_return_periods_spatial.ncl
