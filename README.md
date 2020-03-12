@@ -14,7 +14,7 @@ Run: fig1_BEST_GHCN_hw_metrics_1934_1936.ncl
 
 **Figure 2:**
 
-The data for this is available by request
+The data for this figure is available by request
 
 Run: fig2_hwf_1934_1936_nat_all_pd_WAH2_top200.ncl
 
