@@ -11,6 +11,7 @@ untar fig1_GHCN_files.tgz
 Run: fig1_BEST_GHCN_hw_metrics_1934_1936.ncl
 
 
+
 **Figure 2:**
 
 The data for this is available by request
